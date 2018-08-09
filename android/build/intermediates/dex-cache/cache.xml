@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\07c9cc9ee979c030839c59c61c3aaf2386265477\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_f4bce0f7c1f899089c264542fa94c5675eedd249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_3a3ed28e08e17cfd74280d4f4729ed886de33500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\d50dd81e28f0e138360280b0de3aac72899425ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_1b90a03a5c9f7a1628e5040df6147d9f5d9cf538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\9552180812f1b6e1b87bf56616450291575f4318\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_a5b40879bb88c95a214be3fe27e1c1702561d280.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_e7d52a1fa3d62fd3795a5ceab5dee21cce7ba14f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_f7743ed965eae3ae91cc33d9ced79ac994aa914b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\cf90df094ce7388c577aa403ce513e6c7754a1f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_aa9404a2761f73ae9d516f2db0c004546de19d67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\0ded17e33c56e625f29207c0665b30c066b8c66d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9bc5c658348a96fc5110ac2a8785920bb9417c07">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_a0a3d0aac036304e347c7415520f06c674179224.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\dfb2f6b3577ce66c1fd543109521868b0c4c28bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_4f3fe960522671ed53abfdf3845267ee86326116.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\ba9380f5fd8e4e226b38eb0d277db1ff3d3dc84a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_219fdfc9e0430af298107dbf905a0bc6bb2f68be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_38b74e4be266d69e70035860c1bf242ab4307618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_e967602cedb3cdf27c5916205188b8064fdde338.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_303b93695875d690138015b41eb5da2474808e51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\9e892594202a22be12ff45dca13247894ac2222e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_1e0ec6bd8c5b91debce305a5c6149b0ba0e4f3d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_8cb03cecb94624342b83c6696891afeca94e0c27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\d8c0ae23f73391c6d307d6f41caafc9f18588f5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_bbca8d4174abcd47ee0cb10cbcbabb6f38499d77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\5d3604d951fdee0b5904f73b0dcabc7f03d6d547\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_7fc348e3b7c3f757380c2e68ddbd2e81b74fc90e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\86783ad89e8de75af40a6165c776d799554a7694\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_16a4c3c30605e39d03cb54529c224a6f871d867c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\bb4cd1e3986bae6c0393c6edc5c443524cd60d75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_c2817084bae5649f71a4f1a36d745fb4ee59884c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_0bbc0d373166cdce4387429ed8f9f9297b70f24d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\0a469041a727a0ffc0ebee7f6ab300574681c066\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_4262cd371201165dfe67a2183db3899a4ccb1940.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\0ded17e33c56e625f29207c0665b30c066b8c66d\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_6a0d09077677f9082696f05b37ec810842eb1bd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_122978a14af25a3b247809c8ab1a3475523a48cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\f4d50a7fd260dcd548723a1a207b1c39e07ab463\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_35655af0504a46c4ac72ab1b03870a28bab359ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\1325ddb0fa3976f139a19924228fbdebd0df9820\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_41540f5549c86655b4aef36226bfcf0936dae36a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\aebd47763a73a8058f8068f6d177d11b2d42921a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_82c47812e74df3892b144b56f686d0aa5ffe959b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_52d8982314369150eabcc5e41b135af42679aa93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\7977f6f4f0be73e5c046c2e590a23f019bae4bf5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_994137a20bf9e8bc9c39db776a265e3f182a3c8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\a7c5de5dbcc4339436d416e697e6de66c017476c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_099da61cfa1a59a2bdd4c2a0134a10bd2d5084fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\8737f3830f7bdef6e540fbebe9a2baa76e76fe60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="D:\ReactAppTest\android\app\build\intermediates\pre-dexed\debug\classes_5b00b5870a8e23b87abdd60e4581bd5c61de265f.jar" />
+    </item>
+
+</items>

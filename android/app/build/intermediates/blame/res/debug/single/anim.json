@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0a469041a727a0ffc0ebee7f6ab300574681c066\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_down.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0ded17e33c56e625f29207c0665b30c066b8c66d\\output\\res\\anim\\catalyst_slide_down.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0a469041a727a0ffc0ebee7f6ab300574681c066\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0a469041a727a0ffc0ebee7f6ab300574681c066\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0a469041a727a0ffc0ebee7f6ab300574681c066\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0a469041a727a0ffc0ebee7f6ab300574681c066\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\f9a141ff6ea9d8416084668037129fad0932ab59\\output\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0a469041a727a0ffc0ebee7f6ab300574681c066\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\f9a141ff6ea9d8416084668037129fad0932ab59\\output\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0a469041a727a0ffc0ebee7f6ab300574681c066\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\f9a141ff6ea9d8416084668037129fad0932ab59\\output\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0ded17e33c56e625f29207c0665b30c066b8c66d\\output\\res\\anim\\catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_up.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0ded17e33c56e625f29207c0665b30c066b8c66d\\output\\res\\anim\\catalyst_slide_up.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0a469041a727a0ffc0ebee7f6ab300574681c066\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0a469041a727a0ffc0ebee7f6ab300574681c066\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_out.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0ded17e33c56e625f29207c0665b30c066b8c66d\\output\\res\\anim\\catalyst_fade_out.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0a469041a727a0ffc0ebee7f6ab300574681c066\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_in.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0ded17e33c56e625f29207c0665b30c066b8c66d\\output\\res\\anim\\catalyst_fade_in.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0a469041a727a0ffc0ebee7f6ab300574681c066\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0a469041a727a0ffc0ebee7f6ab300574681c066\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\f9a141ff6ea9d8416084668037129fad0932ab59\\output\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "D:\\ReactAppTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\0ded17e33c56e625f29207c0665b30c066b8c66d\\output\\res\\anim\\catalyst_push_up_in.xml"
+    }
+]
